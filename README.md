@@ -14,3 +14,7 @@ Node.js body parsing middleware
 [`babel/babel`](https://github.com/babel/babel)
 
  Babel is a compiler for writing next generation JavaScript.
+
+[`remy/nodemon`](https://github.com/remy/nodemon)
+
+Monitor for any changes in your node.js application and automatically restart the server - perfect for development.
